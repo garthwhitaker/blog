@@ -1,2 +1,2 @@
-# blog
-Personal blog
+# Blog
+This will be a space for thoughts.
